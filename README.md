@@ -1,6 +1,7 @@
-# amazon-ui-clone
-Amazon UI Clone, This is a Amazon UI Clone project with HTML,CSS and JS.
+# github-learning
 
-It is just a basic static website build up with HTML and CSS.\
+This is a Simple Repo for Pushing Code To Github 
+
+This is for only Practice Perposes.
 
 Author : Suman Saha
